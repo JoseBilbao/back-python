@@ -9,6 +9,10 @@ from decisionTree import *
 app = Flask(__name__)
 CORS(app)
 
+@app.route("/", methods=["GET"])
+def prediction():
+    return {"test":"hi"}
+
 @app.route("/prediction", methods=["POST"])
 def prediction():
     userInput = request.get_data(as_text=True)
