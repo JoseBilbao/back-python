@@ -27,24 +27,24 @@ def predictionDisease(userInput):
     model.fit(symptoms, target)
     
     encode =  []
-    print(len(symptoms.columns))
     for col in symptoms.columns:
         if col in userInput:
             index = userInput.index(col)
             if index!=-1:
                 encode.append(1)
         else: encode.append(0)
-
     y_test = model.predict([encode])
+    print(y_test)
     return y_test
 
+
 def write_data_csv_tf():
-    with open('./data/Symptoms.json') as f:
+    with open('./data/SymptomsNew.json') as f:
         symptoms = json.load(f)
 
     database =[]
 
-    with open('./data/data.json') as f:
+    with open('./data/diseaseTest.json') as f:
         diseases = json.load(f)
 
     for disease in diseases:
@@ -57,15 +57,13 @@ def write_data_csv_tf():
 
     symptoms.insert(0,"Name")
 
-    with open('disease.csv','w', encoding='UTF8') as w:
+    with open('diseaseNew.csv','w', encoding='UTF8') as w:
         writer = csv.writer(w)
         writer.writerow(symptoms)
 
         writer.writerows(database)
 
-
 def write_data_csv():
-
     with open('./data/data.json') as f:
         diseases = json.load(f)
 

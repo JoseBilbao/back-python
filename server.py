@@ -17,7 +17,7 @@ def test():
 def prediction():
     userInput = request.get_data(as_text=True)
     userInput = userInput.strip('[]').replace('"','').split(",")
-
+    print(userInput)
     predict  = predictionDisease(userInput).tolist()
     return ''.join(predict)
 
