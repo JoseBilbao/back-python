@@ -22,4 +22,4 @@ def prediction():
     return ''.join(predict)
 
 if __name__=="__main__":
-    app.run(debug=True)
+    app.run()
