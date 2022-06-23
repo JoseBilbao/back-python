@@ -10,7 +10,7 @@ app = Flask(__name__)
 CORS(app)
 
 @app.route("/", methods=["GET"])
-def prediction():
+def test():
     return {"test":"hi"}
 
 @app.route("/prediction", methods=["POST"])
