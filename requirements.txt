@@ -1,4 +1,4 @@
-Flask @ file:///home/ktietz/src/ci/flask_1611932660458/work
+Flask==1.1.2
 Flask-Cors==3.0.10
 gunicorn==20.1.0
 numpy @ file:///opt/concourse/worker/volumes/live/a3493aeb-202b-43d0-6a51-0a73ce7c0029/volume/numpy_and_numpy_base_1649782777974/work
