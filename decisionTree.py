@@ -1,7 +1,3 @@
-from base64 import encode
-from email import header
-from operator import mod
-from pickle import TRUE
 import pandas as pd
 import json
 import csv
