@@ -11,7 +11,6 @@ backports.weakref==1.0.post1
 bkcharts==0.2
 black==19.10b0
 brotlipy==0.7.0
-cachetools @ file:///tmp/build/80754af9/cachetools_1619597386817/work
 certifi==2021.10.8
 clyent==1.2.2
 conda==4.12.0
