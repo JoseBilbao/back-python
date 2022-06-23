@@ -13,7 +13,7 @@ def maxLen(data):
 
 
 def predictionDisease(userInput):
-    data = pd.read_csv('./data/diseaseTest.csv', na_filter=False)
+    data = pd.read_csv('./data/diseaseNew.csv', na_filter=False)
     symptoms = data.drop('Name', axis='columns')
     target = data['Name']
 
