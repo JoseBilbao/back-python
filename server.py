@@ -1,3 +1,4 @@
+from distutils.log import debug
 from flask import Flask
 from flask_cors import CORS
 from flask import request
@@ -15,6 +16,7 @@ from sklearn.svm import SVC
 import csv
 import warnings
 import re
+from chatbot import *
 
 app = Flask(__name__)
 CORS(app)
@@ -31,7 +33,7 @@ def check_pattern(dis_list,inp):
     else:
         return 0,[]
 def sec_predict(symptoms_exp):
-    df = pd.read_csv('data/Training.csv')
+    df = pd.read_csv('data/diseasePrediction.csv')
     X = df.iloc[:, :-1]
     y = df['prognosis']
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=20)
@@ -41,17 +43,74 @@ def sec_predict(symptoms_exp):
     symptoms_dict = {symptom: index for index, symptom in enumerate(X)}
     input_vector = np.zeros(len(symptoms_dict))
     for item in symptoms_exp:
-      input_vector[[symptoms_dict[item]]] = 1
+        input_vector[[symptoms_dict[item.capitalize()]]] = 1
 
     return rf_clf.predict([input_vector])
-
 def print_disease(node,le):
     node = node[0]
     val  = node.nonzero() 
     disease = le.inverse_transform(val[0])
     presentD  = list(map(lambda x:x.strip(),list(disease)))
     return list(map(lambda x:x.strip(),list(disease)))
+def tree_train():
+    training= open('./data/data.json')
+    data = json.load(training)
 
+    unique_disease  = []
+    unique_symptoms = []
+    for d in data:
+        unique_disease.append(d[0])
+        unique_symptoms += d[1:]
+
+    return data,unique_disease,list(set(unique_symptoms))
+
+@app.route("/chatbotInput",methods=["POST"])
+def chatbot():
+    userInput = request.get_data(as_text=True)
+    print(userInput)
+    data,unique_disease,unique_symptoms=tree_train()
+    conf,cnf_dis=check_pattern(unique_symptoms,userInput)
+    # userInput=cnf_dis[0]
+    question = Question(userInput)
+    # Air fluid level
+    match_rows, unmatch_rows = partition(data, question)
+    print(match_rows)
+    if len(match_rows)==1:
+        return {"data":match_rows[0][0],"match":match_rows[0]}
+    decision, true_branch, false_branch = build_tree(match_rows)
+    if len(false_branch)==0:
+        false_branch = ''
+    if isinstance(decision, list) or type(decision) is list:
+        return {"questions":decision, "answer":true_branch}
+    elif isinstance(decision, Question):
+        return {"question":decision.value, "match":true_branch,'unmatch':false_branch}
+    # return {"question":decision.value, "match":true_branch,'unmatch':false_branch}
+
+@app.route("/chatbotQuestion",methods=["POST"])
+def split():
+    userInput = request.get_json()
+    ans = userInput['ans']
+    true_branch = userInput['match']
+
+    if len(true_branch)==1:
+        first_prediction = true_branch[0][0]
+        return {"data":first_prediction}
+    else:
+        decision, true_branch, false_branch  = build_tree(true_branch)
+        if isinstance(decision, list) or type(decision) is list:
+            return {"questions":decision, "answer":true_branch}
+        elif isinstance(decision, Question):
+            return {"question":decision.value, "match":true_branch,'unmatch':false_branch}
+
+    return ''
+    
+@app.route("/chatbotSecondPrediction",methods=["POST"])   
+def secondPrediction():
+    userInput = request.get_data(as_text=True)
+    userInput = userInput.strip('[]').replace('"','').split(",")
+    predict = sec_predict(userInput)
+    print(predict[0])
+    return predict[0]
 
 @app.route("/symptoms",methods=["POST"])
 def symptoms():
@@ -133,7 +192,6 @@ def tree_to_code(tree, feature_names,disease_input,reduced_data,le):
     recurse(0, 1,le)
     return data
 
-
 @app.route("/predict",methods=["POST"])
 def predict():
     data = request.get_json(force=True)
@@ -151,7 +209,6 @@ def predict():
 
     return {'prediction':data['result'], 'prediction2':second_prediction[0]}
 
-
 @app.route("/", methods=["GET"])
 def test():
     return {"test":"hi"}
@@ -167,4 +224,4 @@ def prediction():
 
 
 if __name__=="__main__":
-    app.run()
+    app.run(debug=True)
