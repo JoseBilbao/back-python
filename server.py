@@ -64,6 +64,21 @@ def tree_train():
 
     return data,unique_disease,list(set(unique_symptoms))
 
+def sec_predict_chatbot1(symptoms_exp):
+    df = pd.read_csv('data/Training.csv')
+    X = df.iloc[:, :-1]
+    y = df['prognosis']
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=20)
+    rf_clf = DecisionTreeClassifier()
+    rf_clf.fit(X_train, y_train)
+
+    symptoms_dict = {symptom: index for index, symptom in enumerate(X)}
+    input_vector = np.zeros(len(symptoms_dict))
+    for item in symptoms_exp:
+        input_vector[[symptoms_dict[item]]] = 1
+
+    return rf_clf.predict([input_vector])
+
 @app.route("/chatbotInput",methods=["POST"])
 def chatbot():
     userInput = request.get_data(as_text=True)
@@ -200,7 +215,7 @@ def predict():
     for syptom in data.keys():
         if data[syptom]=="yes" and syptom!='result':
             symptoms_exp.append(syptom)
-    second_prediction=sec_predict(symptoms_exp)
+    second_prediction=sec_predict_chatbot1(symptoms_exp)
 
     if(data['result']==second_prediction[0]):
         print("You may have ", data['result'])
@@ -221,7 +236,5 @@ def prediction():
     predict  = predictionDisease(userInput).tolist()
     return ''.join(predict)
 
-
-
 if __name__=="__main__":
-    app.run(debug=True)
+    app.run()
