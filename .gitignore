@@ -1,0 +1,4 @@
+.env
+.env/
+JobSearch/application_default_credentials.json
+JobSearch/application_default_credentials.json/
