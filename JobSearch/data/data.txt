@@ -1,0 +1,1327 @@
+﻿projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/5fdae570-cc00-459f-9075-2534d9ad65ab
+Display  AMERIA Investment Consulting Company
+External ID: AMERIAInvestmentConsultingCompany
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/94e9d8c7-cd14-4981-b23f-e1e9bab29e9b
+Display  International Research & Exchanges Board (IREX)
+External ID: InternationalResearch&ExchangesBoard(IREX)
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/77a6a6ea-a170-49fc-9ab5-0f1ff1dff484
+Display  Caucasus Environmental NGO Network (CENN)
+External ID: CaucasusEnvironmentalNGONetwork(CENN)
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/e296bba4-62a8-4adc-920a-5d52b17eef38
+Display  Manoff Group
+External ID: ManoffGroup
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/5087f6e4-2703-4414-ab7e-e52556eaa3f3
+Display  Yerevan Brandy Company
+External ID: YerevanBrandyCompany
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/02f362b0-1fb4-4d93-8f3b-b2587615de44
+Display  Boutique "Appollo"
+External ID: Boutique"Appollo"
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/ff6a9e20-c5f3-4e4e-a38d-62139d3d3bbc
+Display  OSI Assistance Foundation - Armenian Branch Office
+External ID: OSIAssistanceFoundation-ArmenianBranchOffice
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/d07e5086-2eab-4186-8be0-56c793a184d3
+Display  American Embassy Yerevan
+External ID: AmericanEmbassyYerevanANNOUNCEMENTNUMBER:04-01
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/ed2bd6dd-213a-4d6d-a2ed-6bbe4a26ce4d
+Display  Institute for Sustainable Communities (ISC)
+External ID: InstituteforSustainableCommunities(ISC)
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/7378403f-8238-41a7-95cb-10925cdc2701
+Display  Food Security Regional Cooperation and Stability Programme (FRCS)
+External ID: FoodSecurityRegionalCooperationandStabilityProgramme(FRCS)
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/a2428eb5-c8db-4a8f-a702-1e39ccd54893
+Display  Teleplus LLC
+External ID: TeleplusLLC
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/1778557d-2d9a-4cce-a75e-cd741cc2cee3
+Display  NetCall Communications
+External ID: NetCallCommunications
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/09842c2c-a3ba-4652-a371-96d293d333e1
+Display  SOC.Stockholm
+External ID: SOC.Stockholm
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/9985663d-1aad-41e8-a55c-bafda64a7461
+Display  United Nations Development Programme, Armenia
+External ID: UnitedNationsDevelopmentProgramme,Armenia
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/39a9b182-cec6-493b-9603-26af0579dd4a
+Display  Counterpart International, Inc.
+Counterpart's Community and Humanitarian Assistance Program (CHAP)
+External ID: CounterpartInternational,Inc.
+Counterpart'sCommunityandHumanitarianAssistanceProgram(CHAP)
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/46928e86-73c9-49ea-a209-a4c1ed08f59b
+Display  Xalt LLC
+External ID: XaltLLC
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/fe7e53f0-2010-458f-9a9a-9419817c0152
+Display  CUTS Centre for International Trade, Economics and Environment
+External ID: CUTSCentreforInternationalTrade,EconomicsandEnvironment
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/f57dfbfe-6a64-4157-aae2-77e89566176b
+Display  ACDI/VOCA
+External ID: ACDI/VOCA
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/86d0e59d-2e49-4970-840f-96ff3863b5fe
+Display  Armenia TV
+External ID: ArmeniaTV
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/74febf94-1ded-4697-8677-7b3f10f3d5ec
+Display  Media Diversity Institute
+External ID: MediaDiversityInstitute
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/26f0567b-ac05-4b8c-84fe-5f0a41dd2e20
+Display  Armenia School Connectivity Program
+External ID: ArmeniaSchoolConnectivityProgram
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/212c6ee1-8e5d-4e19-b3d0-5048dd94d4d9
+Display  Yerevan State University (YSU) and Civic Education Project (CEP)
+External ID: YerevanStateUniversity(YSU)andCivicEducationProject(CEP)
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/cf612188-8306-4482-ade8-949afcabb62b
+Display  SEF International
+External ID: SEFInternational
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/b2548caa-5c86-4f71-b853-1b180fa49a8b
+Display  International Relief and Development (IRD)
+External ID: InternationalReliefandDevelopment(IRD)
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/869037bc-59c7-4bea-aef7-5f3759760487
+Display  UMCOR Armenia
+External ID: UMCORArmenia
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/050963c3-447e-406c-bc4a-54d6c4b0cadf
+Display  Caucasus Research Resource Center - Armenia
+External ID: CaucasusResearchResourceCenter-Armenia
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/1fcc4596-f7d7-4e52-99e3-4a4c4c8e8f89
+Display  CIT Ltd.
+External ID: CITLtd.
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/dbef84e4-5f04-42a3-8a6b-522c40741698
+Display  Synergy International Systems, Inc./Armenia
+External ID: SynergyInternationalSystems,Inc./Armenia
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/f28f52a5-93bb-42c8-8c32-6143ec381c5f
+Display  AMERIA CJSC
+External ID: AMERIACJSC
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/105025ee-c0d0-49e3-a9f7-ddc99bc70e34
+Display  Internationale Journalisten Programme (IJP), Germany
+External ID: InternationaleJournalistenProgramme(IJP),Germany
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/b4d4b125-cc61-48ef-9ba8-c114d960f46e
+Display  Armenian Red Cross Society
+External ID: ArmenianRedCrossSociety
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/7f5aefba-5d92-4a78-afff-2155d6dee8f4
+Display  Mercy Corps
+External ID: MercyCorps
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/afbc4a80-4205-40b4-8a61-35a01cbcb81a
+Display  Development Alternatives, Inc.
+External ID: DevelopmentAlternatives,Inc.
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/0562a7bb-fa8d-40e4-b216-137c579e5c4f
+Display  Initiatives Inc.
+External ID: InitiativesInc.
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/a20ff533-4626-4383-85db-04e15b1458ef
+Display  Military Institute
+External ID: MilitaryInstitute
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/b6004062-9d1f-4e64-a917-2b695657881a
+Display  Microenterprise Development Fund Kamurj
+External ID: MicroenterpriseDevelopmentFundKamurj
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/0209f54a-32b0-4ff2-847f-ba6f4aff0381
+Display  International Registered Nurses of America, Inc.
+External ID: InternationalRegisteredNursesofAmerica,Inc.
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/3ed7774f-f4ca-44d5-9025-47e19a9722ca
+Display  Armenian Caritas
+External ID: ArmenianCaritas
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/2f9d1b17-1ab9-4be7-8ca6-b5b00323d0b3
+Display  SEF International Universal Credit Organisation Ltd.
+External ID: SEFInternationalUniversalCreditOrganisationLtd.
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/b8f3119f-fd8a-4c14-8578-975c0169eb97
+Display  Training and Development Ltd.
+External ID: TrainingandDevelopmentLtd.
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/28077ad0-abd1-4632-9741-98fddf219959
+Display  ARQELL CJSC
+External ID: ARQELLCJSC
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/a783ee08-834d-4ee6-8906-9031db3f8a9e
+Display  IntraHealth International/ PRIME II Project
+External ID: IntraHealthInternational/PRIMEIIProject
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/1ae9ad1e-254f-4211-b656-3d91ec213c76
+Display  PLS RAMBOLL Management
+External ID: PLSRAMBOLLManagement
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/04203608-5a6d-4697-afa3-55b00c225b4a
+Display  Web Project
+External ID: WebProject
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/417d370c-a6f5-4ee9-96c6-5bbf0e7b22f1
+Display  ACTR/ ACCELS
+External ID: ACTR/ACCELS
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/f8de4d1d-6011-4615-be0e-8669c2e0e533
+Display  Eurasia Foundation
+External ID: EurasiaFoundation
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/a03ade62-4747-41d9-962d-7fc033220309
+Display  Accion Contra el Hambre - Armenia
+External ID: AccionContraelHambre-Armenia
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/5d94fc34-eb74-4e09-a45f-a9de2001eb82
+Display  Small and Medium Entrepreneurship Development National Center of Armenia
+External ID: SmallandMediumEntrepreneurshipDevelopmentNationalCenterofArmenia
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/e89b709f-0323-47e8-ae1a-50c03505d969
+Display  Interagent LLC
+External ID: InteragentLLC
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/53e2b0ce-b6e1-42ca-b865-242562623aab
+Display  IREX Armenia
+External ID: IREXArmenia
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/23d7a294-5b07-47f7-b67e-d892ececca0f
+Display  UN World Food Programme, Armenia
+External ID: UNWorldFoodProgramme,Armenia
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/711e28d0-95f8-47ee-bf87-be7b2a3ebc44
+Display  NetMen Ltd.
+External ID: NetMenLtd.
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/92db4133-0268-4e8f-96f0-a3e0105549d9
+Display  European Project for Regional Development of Armenia (REDAM)
+External ID: EuropeanProjectforRegionalDevelopmentofArmenia(REDAM)
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/10b0d710-b560-4c95-b12a-d9028fdea708
+Display  IntraHealth/PRIME II
+External ID: IntraHealth/PRIMEII
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/af95f60f-1e48-4eee-9265-f5087c50c2c0
+Display  First Mortgage Company
+External ID: FirstMortgageCompany
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/afc5dd7c-d882-4739-ba3c-61ded0bac833
+Display  THE CENTER FOR COMMUNITY DIALOGUES AND INITIATIVES
+External ID: THECENTERFORCOMMUNITYDIALOGUESANDINITIATIVES
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/7390ec2c-a4f6-446f-845d-94ce69501045
+Display  Ameria CJSC
+External ID: AmeriaCJSC
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/c9f05e42-70d4-414c-a679-298b16372113
+Display  US Government, OSI and the Civic Education Project
+External ID: USGovernment,OSIandtheCivicEducationProject
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/6829688a-fed8-42f8-9e49-cc97921eb821
+Display  AGBU Armenian Representation Office
+External ID: AGBUArmenianRepresentationOffice
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/c6a5511c-da70-4794-88ae-b1d2a881c42e
+Display  Vekst Teknologi AS (VT)
+External ID: VekstTeknologiAS(VT)
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/f849efd2-ceb1-4c98-99cb-1213d03b2158
+Display  World Vision Armenia
+External ID: WorldVisionArmenia
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/7d3ffd87-246b-43fe-bf2d-953e13623680
+Display  CHF International
+External ID: CHFInternational
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/79bbeb88-661a-4b43-8744-e5d71d6206b0
+Display  Deloitte Emerging Markets
+External ID: DeloitteEmergingMarkets
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/9201245e-5fe3-4daf-8d60-50915a0e7f62
+Display  Academy for Educational Development, Armenia
+External ID: AcademyforEducationalDevelopment,Armenia
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/ac54fd5b-e88a-4c03-9e31-a015ca568ca0
+Display  United Nations Development Programme
+External ID: UnitedNationsDevelopmentProgramme
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/d1272a6c-9add-45c2-a2dc-c0f3dd8f5898
+Display  EU TACIS Project "Support to the Development of an Integrated Vocational
+Education Training (VET) system" in Armenia
+External ID: EUTACISProject"SupporttotheDevelopmentofanIntegratedVocational
+EducationTraining(VET)system"inArmenia
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/7237627b-0559-450d-a066-9563f9202a5f
+Display  Medecins Sans Frontieres - Belgium
+External ID: MedecinsSansFrontieres-Belgium
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/903448d0-8da4-48f9-9ff3-f3caef2feadd
+Display  Graduate School of Journalism, Columbia University, NY
+External ID: GraduateSchoolofJournalism,ColumbiaUniversity,NY
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/772d9244-b2e0-413d-8518-b5d0419f44e9
+Display  Vem Radio Station
+External ID: VemRadioStation
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/b90c3e4f-f616-4fa6-a620-eec4d09851d4
+Display  H2 ECOnomy
+External ID: H2ECOnomy
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/80291025-94db-43e5-b7ca-e705acba74e0
+Display  OSCE Yerevan Office
+External ID: OSCEYerevanOffice
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/b72631bb-bc8d-4d79-a031-62426d8ab400
+Display  USAID, DCHA and LWVF
+External ID: USAID,DCHAandLWVF
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/f8493b9c-c012-46d4-bfca-f79cbe21bbf5
+Display  ONCE, Spain
+External ID: ONCE,Spain
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/09bb31b7-bbf9-4830-b275-55244ea0a429
+Display  Career Placement and Counseling Office (CPCO)
+External ID: CareerPlacementandCounselingOffice(CPCO)
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/5c5c25ed-c421-4759-a826-492c02af228d
+Display  Save The Children - Armenia Field Office
+External ID: SaveTheChildren-ArmeniaFieldOffice
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/4a9f5d59-0f22-48cd-be58-0045ac13d393
+Display  US DEPARTMENT OF AGRICULTURE MARKETING ASSISTANCE PROJECT
+External ID: USDEPARTMENTOFAGRICULTUREMARKETINGASSISTANCEPROJECT
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/1b19303f-75bf-4977-9676-36050bc211d7
+Display  "Intarnet" Ltd
+External ID: "Intarnet"Ltd
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/5f77bbc6-133c-45eb-81f5-9f516f3abe1f
+Display  Education for Sustainable Development Foundation (ESDF)
+External ID: EducationforSustainableDevelopmentFoundation(ESDF)
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/c1eafff4-2f04-48b9-b861-62e0f5ca06cb
+Display  Bars Media
+External ID: BarsMedia
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/2a9ee578-4fa6-4cc8-a7bf-4343983519e2
+Display  Military Institute MoD RA
+External ID: MilitaryInstituteMoDRA
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/26838316-4ce3-48ac-aed8-6c7ab6865ce1
+Display  Valensia Expo
+External ID: ValensiaExpo
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/70b2e70c-9f07-45f0-a465-d1c1fb5c98d0
+Display  "Compass"  Ltd
+External ID: "Compass"Ltd
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/f2e6c1e4-0801-43c6-b145-7b83ccb715df
+Display  ACRA Credit Bureau
+External ID: ACRACreditBureau
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/08fa4f7f-b63c-4c3f-9a72-06bab0d0d9ee
+Display  Minority Rights Group International
+External ID: MinorityRightsGroupInternational
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/22b6daf0-5235-4e87-93ab-943383ce2ac0
+Display  Reebok Human Rights Program, USA
+External ID: ReebokHumanRightsProgram,USA
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/56100d30-4977-4c9f-8d60-806041b933d0
+Display  Food Security Regional Cooperation and Stability Programme in South Caucasus (FRCS)
+External ID: FoodSecurityRegionalCooperationandStabilityProgrammeinSouthCaucasus(FRCS)
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/0e04b5cb-041b-40ee-9fff-11eff89d2918
+Display  Open Society Institute
+External ID: OpenSocietyInstitute
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/c69186f7-a78b-4f79-814d-a102e3f64067
+Display  Council of Europe and Budapest European Youth Centre
+External ID: CouncilofEuropeandBudapestEuropeanYouthCentre
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/be77b8ae-994e-453d-b326-c26109873ce9
+Display  ABSER Ltd.
+External ID: ABSERLtd.
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/d0c2ab98-5fb6-43e9-9ff3-71cd8348ca39
+Display  USAID/Armenia
+External ID: USAID/Armenia
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/a390b062-0c43-4c3d-8889-8d417cb4b519
+Display  US DEPARTMENT OF AGRICULTURE 
+MARKETING ASSISTANCE PROJECT
+External ID: USDEPARTMENTOFAGRICULTURE
+MARKETINGASSISTANCEPROJECT
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/5e6e16f4-44dc-42d8-9f9a-ae4cdb6d081d
+Display  Valensia Hotel & Resort
+External ID: ValensiaHotel&Resort
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/55109308-d921-49f1-8d12-82bd6d48c048
+Display  Microenterprise Development Fund "Kamurj"
+External ID: MicroenterpriseDevelopmentFund"Kamurj"
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/953fa505-3baf-4f51-8620-0d919930be71
+Display  Synergy International Systems, Inc.
+External ID: SynergyInternationalSystems,Inc.
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/9ecb6cd5-43e2-4ee1-95bc-2b117920d22e
+Display  IOS Partners, Inc.
+External ID: IOSPartners,Inc.
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/e0424f3c-59a3-4fc5-bd32-5d29fb44a929
+Display  International Medical Corps
+External ID: InternationalMedicalCorps
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/be57da94-4620-4dba-9806-57e641d5e85e
+Display  Peace Corps - Armenia
+External ID: PeaceCorps-Armenia
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/1c66606c-35ba-49f5-b2ee-a4c41e2b785e
+Display  "Digital Technologies" LLC
+External ID: "DigitalTechnologies"LLC
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/32fa4c80-f3a8-4da2-ada2-fed2580d7010
+Display  Armenian Association of Seismology and Physics of the Earth (AASPE)
+External ID: ArmenianAssociationofSeismologyandPhysicsoftheEarth(AASPE)
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/dd15c71c-527d-4e47-a549-98b5e6cb087e
+Display  Joan B. Kroc Institute for Peace & Justice (IPJ)
+External ID: JoanB.KrocInstituteforPeace&Justice(IPJ)
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/1fde6c8b-16ec-44d0-befd-8b5e86a795c9
+Display  The American Institutes for Research International Development Program
+External ID: TheAmericanInstitutesforResearchInternationalDevelopmentProgram
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/e00b10c5-5eaf-4212-a61f-097d5ce576fd
+Display  The American Institutes for Research Vocational Education Project, Macedonia
+External ID: TheAmericanInstitutesforResearchVocationalEducationProject,Macedonia
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/ed008bd7-868c-4f79-ae44-f10638f93733
+Display  Discovery Channel Global Education Fund
+External ID: DiscoveryChannelGlobalEducationFund
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/46ceaf1c-d83b-4d16-a46b-304accbcb960
+Display  Save the Children
+External ID: SavetheChildren
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/3dd6a184-51f2-492a-b165-85898fba757e
+Display  Women's Environment & Development Organization
+External ID: Women'sEnvironment&DevelopmentOrganization
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/59b1b840-a4f6-4a2f-bf1c-445803ec79a6
+Display  Horus Banque et Finance
+External ID: HorusBanqueetFinance
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/47ecff8e-8567-4e1d-bcc0-609f2495537c
+Display  Caucasus Research Resource Centers - Armenia A Program of Eurasia Foundation
+External ID: CaucasusResearchResourceCenters-ArmeniaAProgramofEurasiaFoundation
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/bab64a1b-d88a-4e0c-a837-9b0c4bf4e805
+Display  "Antares" Media Holding
+External ID: "Antares"MediaHolding
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/38464821-0747-48c8-b217-2a4a14bf849f
+Display  Counterpart International
+External ID: CounterpartInternational
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/822adf12-1ea0-48e8-9b83-b73703dd8c19
+Display  Antares Media Holding
+External ID: AntaresMediaHolding
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/5a2f182d-8877-4461-b4b3-b53114d43c03
+Display  Tire Ltd.
+External ID: TireLtd.
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/a30eb8ab-a645-47a6-80fe-a1ed12fad06f
+Display  Global Village Energy Partnership
+External ID: GlobalVillageEnergyPartnership
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/f8b0a696-acb6-4ce3-ac80-9621c716649d
+Display  Helsinki Consulting Group
+External ID: HelsinkiConsultingGroup
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/f9feebcf-fad5-4ef7-80e2-732b2e2e0b88
+Display  Barents Group of BearingPoint USAID Commercial Law and Economic Regulation
+External ID: BarentsGroupofBearingPointUSAIDCommercialLawand
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/8a0c149a-305e-42de-9efe-ace1f2e894ca
+Display  Business Support Center
+External ID: BusinessSupportCenter
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/1e74f020-6d5d-4882-8e41-76ea343c9f34
+Display  ZenteX.AM
+External ID: ZenteX.AM
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/9361647b-a3c1-4abc-8480-60dff7d9ba6a
+Display  Colgate Palmolive Company / Derjava-S Company
+External ID: ColgatePalmoliveCompany/Derjava-SCompany
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/20723138-b96a-4565-8b82-5a6753876723
+Display  Boomerang Software LLC
+External ID: BoomerangSoftwareLLC
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/a040cd0b-e79d-4667-9760-6c00d05e256b
+Display  LadyDalieda
+External ID: LadyDalieda
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/63f5483f-ed0b-48e7-883c-6e991ed64978
+Display  Konvekt
+External ID: Konvekt
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/c95d5639-cee3-4c06-a763-17cd85c3aec3
+Display  edia Diversity Institute
+External ID: ediaDiversityInstitute
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/4aee62b8-b8e0-4665-8b15-48a8ab11ee7b
+Display  Dirol Cadbury
+External ID: DirolCadbury
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/c2054d3c-30c7-4b20-a3b5-ae41bc6b8427
+Display  Mars LLC
+External ID: MarsLLC
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/e5441ae9-87a5-4941-b337-69710c9273db
+Display  Armenia Social Transition Program (ASTP)
+External ID: ArmeniaSocialTransitionProgram(ASTP)
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/dd14fdcb-ae56-4e74-a65f-ec5502b52a1f
+Display  Boomerang Sosftware LLC
+External ID: BoomerangSosftwareLLC
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/356b8de1-182c-454c-afc2-322d8b1bce47
+Display  Enterprise Incubator Foundation (EIF) & Armenian High-Tech Council of America
+External ID: EnterpriseIncubatorFoundation(EIF)&ArmenianHigh-TechCouncilofAmerica
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/7bab4636-eca5-4dcc-bb18-0b13c5664ba1
+Display  "Click" Web Design
+External ID: "Click"WebDesign
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/5e7427b3-a75e-4d5a-8855-3bad0687141c
+Display  IFES & CCDI
+External ID: IFES&CCDI
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/e16e86e9-e9e9-4338-92bb-5fba042ce96d
+Display  Olympia Group, Inc.
+External ID: OlympiaGroup,Inc.
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/498ce60f-9b87-4648-aad0-dea52491259f
+Display  Armenian Forests NGO
+External ID: ArmenianForestsNGO
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/dd2e5dd2-427a-47e2-a8ee-7e54c26ada76
+Display  Vallex Ltd.
+External ID: VallexLtd.
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/d8f55d5f-0a75-4d8f-a8e7-4884457145ce
+Display  Arzni Mineral Water Company
+External ID: ArzniMineralWaterCompany
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/e84558a5-832a-43bc-a5e2-39f757d83bff
+Display  VTnova LLC
+External ID: VTnovaLLC
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/b3415858-be76-48bd-a620-a16b4c8cf88f
+Display  AIESEC in Armenia
+External ID: AIESECinArmenia
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/7abf27d8-3913-40d3-acb1-0176cdd5ada2
+Display  LEVAND
+External ID: LEVAND
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/ec4aa327-c39a-4ec4-b138-a3959475f7bb
+Display  Private
+External ID: Private
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/630418c5-06cd-4b13-9248-c4972696d4fc
+Display  Children of Armenia Fund
+External ID: ChildrenofArmeniaFund
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/cd0ee741-e175-4cda-9528-bb32d6ab2c22
+Display  American Embassy Yerevan
+External ID: AmericanEmbassyYerevan
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/9c7f9fa6-28a5-4899-a632-340f1cb064cc
+Display  TopS BI
+External ID: TopSBI
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/377bad0f-49dd-4d69-918b-a490bca7320a
+Display  QSI International School of Yerevan
+External ID: QSIInternationalSchoolofYerevan
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/eafe502c-414a-4f17-81a5-c39357103f29
+Display  University of Southern California
+External ID: UniversityofSouthernCalifornia
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/26b6c531-bcc5-4226-8aff-4239561dd2d2
+Display  Caucasus Media Institute
+External ID: CaucasusMediaInstitute
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/fd5147c1-2c48-4ed8-b6f1-ae11063e0ac9
+Display  UNHCR /Armenia
+External ID: UNHCR/Armenia
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/f2e46fab-f561-4977-ad97-02eecbbdd0d5
+Display  St. Thomas University School of Law, Florida, USA
+External ID: St.ThomasUniversitySchoolofLaw,Florida,USA
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/326dca42-00c7-4487-a201-91406ce08b4c
+Display  UNICAD CJSC
+External ID: UNICADCJSC
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/f63bd9a6-f238-478d-b13d-efdc24e2d814
+Display  DiploFoundation
+External ID: DiploFoundation
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/7396679f-042f-419a-ac06-21144a78a3f3
+Display  Conservation International
+External ID: ConservationInternational
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/eef75a76-af83-4aa0-a5e7-5e3b2a8d7597
+Display  United Methodist Committee On Relief
+External ID: UnitedMethodistCommitteeOnRelief
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/bc28556c-2d98-4a0f-8adc-c783f9efb35d
+Display  Human Rights Watch
+External ID: HumanRightsWatch
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/eb51d046-14cd-4265-ba90-eab939b9a122
+Display  ASPO (Armenian Software Project Outsource)
+External ID: ASPO(ArmenianSoftwareProjectOutsource)
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/c65fc019-aa2f-4496-af19-a2ba670881a6
+Display  CIT Ltd
+External ID: CITLtd
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/1743f8bf-0f6e-44d1-af79-d00663ce58d8
+Display  "Armenian-American Food Processing Company" JV LLC
+External ID: "Armenian-AmericanFoodProcessingCompany"JVLLC
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/62acd54f-2aad-4d34-9ebf-e13f8333e35a
+Display  EIR Development Partners
+External ID: EIRDevelopmentPartners
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/727add75-be4d-4d84-b7e7-f7f1073256df
+Display  Regional Environmental Centre for the Caucasus
+External ID: RegionalEnvironmentalCentrefortheCaucasus
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/3f88b02b-f09a-4833-8309-8b0d281ad0b4
+Display  Verisoft Emirates
+External ID: VerisoftEmirates
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/bee50b64-535c-4fe2-b191-425e9f1fe243
+Display  OSCE Office in Yerevan
+External ID: OSCEOfficeinYerevan
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/338e8ac8-b699-46eb-a6be-dbdfb7f7e686
+Display  AMERICAN EMBASSY YEREVAN
+External ID: AMERICANEMBASSYYEREVAN
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/b02a2f36-829c-45b5-9fa0-73aba064444d
+Display  HSBC Bank Armenia CJSC
+External ID: HSBCBankArmeniaCJSC
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/d87d1a03-e822-43a2-86a5-6a2cff3202ca
+Display  UNDP Armenia
+External ID: UNDPArmenia
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/9a0a9401-ab4b-4618-b3ea-cae74c94cf83
+Display  Viasphere Technopark
+External ID: ViasphereTechnopark
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/c5a80156-f3fb-47af-ba92-7a303b808180
+Display  Odyssee Productions
+External ID: OdysseeProductions
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/17272614-cd36-4003-8998-fd3d7ef63f29
+Display  Nottingham University Business School
+External ID: NottinghamUniversityBusinessSchool
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/817f0335-84c1-4f1b-a3c3-f883d8509fb8
+Display  Hovnanian International Ltd. - Vahakni Community
+External ID: HovnanianInternationalLtd.-VahakniCommunity
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/3bc06510-188e-445d-8c13-ec3eee6fa5a1
+Display  UNITED METODIST COMMITTEE ON RELIEF - UMCOR Armenia Office
+External ID: UNITEDMETODISTCOMMITTEEONRELIEF-UMCORArmeniaOffice
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/18ef342a-faa3-4288-96bb-11e0e2485746
+Display  AgVANTAGE
+External ID: AgVANTAGE
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/b3b24b3e-f8cd-4985-97a8-61ef65e7692c
+Display  ISP Geonet
+External ID: ISPGeonet
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/52a6c516-6725-403a-a4c4-607291ee507d
+Display  UNICEF Georgia
+External ID: UNICEFGeorgia
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/7f7cc2df-1043-46e0-80bb-a66703c8ead1
+Display  United Georgian Bank
+External ID: UnitedGeorgianBank
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/05f456f6-ae26-49a3-b3ca-1a742ac1e0d8
+Display  JSC Intellectbank/Central Branch
+External ID: JSCIntellectbank/CentralBranch
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/d26ebde8-3809-4b93-9dce-b71c7df1ce05
+Display  ProCredit Bank, Georgia
+External ID: ProCreditBank,Georgia
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/49c6b735-857a-4152-8e1b-da142c3a5a74
+Display  People's Bank of Georgia
+External ID: People'sBankofGeorgia
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/ee07f376-34af-4810-87d6-62075a2fd6c1
+Display  GTZ - FRCS
+External ID: GTZ-FRCS
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/ca05bc68-1332-4f39-9d09-4841d71a44fd
+Display  PADCO Representation in Armenia
+External ID: PADCORepresentationinArmenia
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/1e21098b-6f11-4154-84bb-33b886a0bf1b
+Display  UITE
+External ID: UITE
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/d5e9201b-7203-4517-bb3b-61f846233186
+Display  ASMIDA
+External ID: ASMIDA
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/5d8d248a-f470-4a01-a525-05799ea4e80f
+Display  American Embassy, Yerevan
+External ID: AmericanEmbassy,Yerevan
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/5792c743-3455-4d7d-9cc6-51ac5179582d
+Display  Project Harmony - Armenia
+External ID: ProjectHarmony-Armenia
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/9147e16a-295a-474d-bd41-4fc4f129ea53
+Display  Shirak Competitiveness Center (SCC)
+External ID: ShirakCompetitivenessCenter(SCC)
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/76ed9674-ea9a-41dd-b245-56e735d533ed
+Display  Career Center
+External ID: CareerCenter
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/5a4998a6-c378-4f81-b838-04ea7eb3e60f
+Display  American Bar Association / Central European and Eurasian Law Initiative
+External ID: AmericanBarAssociation/CentralEuropeanandEurasianLawInitiative
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/994bf9be-25d3-4e3f-89d3-be9f5263dde0
+Display  Small Enterprise Lending Programme (SELP)
+External ID: SmallEnterpriseLendingProgramme(SELP)
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/a537b897-b561-4f3b-97ae-dc5ec6df63dd
+Display  The Foundation Internews Georgia
+External ID: TheFoundationInternewsGeorgia
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/dddfd220-f200-4337-b560-818f9e9280ad
+Display  Foundation Internews Georgia
+External ID: FoundationInternewsGeorgia
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/a87a8e8b-c30e-409f-b158-5b66dc797e22
+Display  OSI International Higher Education Support Program (HESP)
+External ID: OSIInternationalHigherEducationSupportProgram(HESP)
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/50d97a64-0705-414b-8b89-9547dbca9909
+Display  Meddental
+External ID: Meddental
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/a1b76b95-aba7-4636-a4a0-de338ee9d899
+Display  Japonica Intersectoral
+External ID: JaponicaIntersectoral
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/55d5d30e-ab0f-490e-8f22-012fde54ea95
+Display  Foreign Financing Projects Management Center (PIU) of the Ministry of Finance and Economy
+External ID: ForeignFinancingProjectsManagementCenter(PIU)oftheMinistryofFinanceandEconomy
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/280d001a-41ee-4a14-ad55-9330533420f6
+Display  Synergy International Systems, Inc. - Armenia
+External ID: SynergyInternationalSystems,Inc.-Armenia
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/8f01ce09-f971-47f9-a823-b05e64a31fd9
+Display  World Bank Yerevan Office
+External ID: WorldBankYerevanOffice
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/3e6bd233-71d6-4d21-993d-26774686d1ee
+Display  The International Research & Exchanges Board (IREX)
+External ID: TheInternationalResearch&ExchangesBoard(IREX)
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/8188f8f9-5548-43dd-9a8f-7996de10f68b
+Display  World Vision Armenin
+External ID: WorldVisionArmenin
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/cad892cb-4971-4a10-9279-eafae35c86e0
+Display  Municipal Development Project Management Unit
+External ID: MunicipalDevelopmentProjectManagementUnit
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/fc2280f1-b3cb-47f1-aad4-30d74dc2bb94
+Display  Valetta Ltd
+External ID: ValettaLtd
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/f302eaf1-19eb-46e9-ba7e-6415a6369d52
+Display  B & S Ltd
+External ID: B&SLtd
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/bc1b7ec3-5b02-40c2-9ac3-585385ab8dc1
+Display  DiOr (Design of Interiors, Offices and Rosariums)
+External ID: DiOr(DesignofInteriors,OfficesandRosariums)
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/f02fb270-4e4f-44f9-ac55-8b335c6c4417
+Display  IREX
+External ID: IREX
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/baac2795-b2d2-4bf6-b4fa-89eac5424d04
+Display  French University of Armenia
+External ID: FrenchUniversityofArmenia
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/2de6247f-4436-4432-b664-f0a07d501db2
+Display  Ranchpar Ltd.
+External ID: RanchparLtd.
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/b5a4ac85-911e-48c7-8b59-d031ff30bf4d
+Display  Municipal Development Project Management Unit SI
+External ID: MunicipalDevelopmentProjectManagementUnitSI
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/889886ba-0044-4d42-9ff2-8b26260c92b6
+Display  Business & Finance Consulting
+External ID: Business&FinanceConsulting
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/574b3299-5a12-47ed-8695-4f179bf8d25b
+Display  The Eurasia Foundation Representative Office in Armenia
+External ID: TheEurasiaFoundationRepresentativeOfficeinArmenia
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/09b93c39-c367-4eae-aec7-fbb54de77371
+Display  HSBC Armenia Bank cjsc
+External ID: HSBCArmeniaBankcjsc
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/fbf42495-e9bf-47a8-8407-d8eaf6447c8a
+Display  JCA-Jewellery Company of Armenia
+External ID: JCA-JewelleryCompanyofArmenia
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/c250cad2-a35d-4463-8226-1e7f9ee0bf70
+Display  HSBC Bank Armenia cjsc
+External ID: HSBCBankArmeniacjsc
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/34b66b33-58a9-480f-a406-376fa7c42c95
+Display  "Fordilling" Holding Co.
+External ID: "Fordilling"HoldingCo.
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/8c160f1e-05bf-498a-894d-fa630d40677f
+Display  Cosmoplast
+External ID: Cosmoplast
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/3e323564-9dc5-4067-bf2e-24c5f80cb116
+Display  Centre for Human Ecology, Edinburgh, Scotland
+External ID: CentreforHumanEcology,Edinburgh,Scotland
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/5659b0d2-2787-4acd-aa86-f82f122641a7
+Display  Banber Distribution Systems LLC
+External ID: BanberDistributionSystemsLLC
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/b5c814ed-bbcc-4323-b2c2-bfaef8d75eea
+Display  French University in Armenia
+External ID: FrenchUniversityinArmenia
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/17ed2009-590f-4352-b04b-b984110821a2
+Display  The Eurasia Foundation
+External ID: TheEurasiaFoundation
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/1758a177-a066-4261-9593-95cf774699de
+Display  Education for Sustainable Development Foundation
+External ID: EducationforSustainableDevelopmentFoundation
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/5cd94dbf-3cd1-441c-beed-e07178d3928d
+Display  Project Harmony, Vermont
+External ID: ProjectHarmony,Vermont
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/a651bc2a-aeb6-45eb-a856-6abf5258f3ef
+Display  ArzArt LLC
+External ID: ArzArtLLC
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/6c777331-cb10-4a06-9ceb-09a31a445402
+Display  City Research Center
+External ID: CityResearchCenter
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/2929428f-8459-4bcb-91c3-686597a8954f
+Display  GTMC CJSC
+External ID: GTMCCJSC
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/e3dcfbf4-ca38-4e8d-bc79-e309e389ce44
+Display  "Training and Development"
+External ID: "TrainingandDevelopment"
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/6e9a3862-0028-4cd5-aaf2-29aadd3e90a7
+Display  AGBU London lecture Series
+External ID: AGBULondonlectureSeries
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/1891dd1b-ede1-4b09-9484-b46e662e43ab
+Display  H-B LTD
+External ID: H-BLTD
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/fd44e57b-af8b-4455-b493-0286eb12659f
+Display  Ecoclub ANI
+External ID: EcoclubANI
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/97a25334-46ce-41fa-84a4-e87c47793462
+Display  Hovnanian International
+External ID: HovnanianInternational
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/b01dd8e6-ec92-4382-9d72-6e77e6249fbf
+Display  "HovBilt-Brick"LTD
+External ID: "HovBilt-Brick"LTD
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/adec8083-6b19-464d-b6e9-8fcb55024e96
+Display  "HovBilt-Brick'LTD
+External ID: "HovBilt-Brick'LTD
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/b3d32de7-ad24-414b-b56e-1e6e5f831553
+Display  PADCO Inc.
+External ID: PADCOInc.
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/c868c3a1-3250-45f0-a16a-39b42c29fe87
+Display  World Vision
+External ID: WorldVision
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/11469ee4-75c6-41f0-b38f-b9e02bdfa984
+Display  MX LLC
+External ID: MXLLC
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/0ae20493-1016-4137-ab3c-2c6613720370
+Display  CRINGO Network (Caucasus Refugee/IDP NGOs' Network)
+External ID: CRINGONetwork(CaucasusRefugee/IDPNGOs'Network)
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/b8bf7815-ed2f-498d-b9bb-c0ffa072edd5
+Display  Armenian Association of Seismology and Physics of the Earth
+External ID: ArmenianAssociationofSeismologyandPhysicsoftheEarth
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/be01e260-4942-466e-975d-75d1499377b7
+Display  UMCOR
+External ID: UMCOR
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/31d07434-8e7c-4a70-b4de-cc93f0d8f162
+Display  "Training & Development"
+External ID: "Training&Development"
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/4d7342cb-a70e-4dff-9cce-13ffbcaec86b
+Display  Caucasus Environmental NGO Network
+External ID: CaucasusEnvironmentalNGONetwork
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/538c6e8c-3597-4c08-8cc2-77043cbd66b4
+Display  SOS CV Armenia
+External ID: SOSCVArmenia
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/a69f68c6-b10d-462c-97ca-333778470dbd
+Display  DCA-Diamond Company of Armenia
+External ID: DCA-DiamondCompanyofArmenia
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/54334b6c-7305-4612-a7f6-5b7ec9fe7890
+Display  SOS CV ARMENIA
+External ID: SOSCVARMENIA
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/d94ebb00-471c-4ab5-a251-b83972d8ec8f
+Display  Armenian Stock Exchange
+External ID: ArmenianStockExchange
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/22f9adec-6300-4cb7-a6ee-452a30fd76d3
+Display  "Tire" LLC
+External ID: "Tire"LLC
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/385d4e67-eb18-4874-a12b-1b1d89903f0b
+Display  Lycos Europe
+External ID: LycosEurope
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/38dc837f-f600-449c-8c76-3843d04c8154
+Display  International Center for the Young
+External ID: InternationalCenterfortheYoung
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/be8ebe2c-9680-4c8c-be8f-b31a34904d12
+Display  Coca - Cola Bottlers Armenia CJSC
+External ID: Coca-ColaBottlersArmeniaCJSC
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/65663895-e96e-4ac1-a078-e700ec5c76e3
+Display  "AV TV" Limited Liability Company
+External ID: "AVTV"LimitedLiabilityCompany
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/c4b76618-179c-445e-8fa9-5220eeb5cefd
+Display  USAID/PADCO Armenia Social Transition Program
+External ID: USAID/PADCOArmeniaSocialTransitionProgram
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/6dab9562-c3ac-4904-a974-d3941f2f19e6
+Display  Armenian Agricultural Academy Support Foundation (AAASF)
+External ID: ArmenianAgriculturalAcademySupportFoundation(AAASF)
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/d04bdd8b-99c4-4b70-b701-65c109b8b48c
+Display  Netsys JV LLC - Internet Services Provider
+External ID: NetsysJVLLC-InternetServicesProvider
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/b5c9420a-8e08-4971-a040-f89339c7c752
+Display  Women's Rights Center
+External ID: Women'sRightsCenter
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/4835702c-20f0-458d-9216-e0228aa93215
+Display  Moscow State University of Economics, Statistics and Information.
+External ID: MoscowStateUniversityofEconomics,StatisticsandInformation.
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/5db5eb71-27b9-4675-b5c3-b80e03b3bbec
+Display  Valletta Ltd
+External ID: VallettaLtd
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/4b1b7208-d743-4ea5-96ac-1bb2fb70b574
+Display  CIT
+External ID: CIT
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/a9bcebac-234b-453d-831b-70fce81149c6
+Display  (IFES/Armenia) and the Center for Community Dialogues and Initiatives
+External ID: (IFES/Armenia)andtheCenterforCommunityDialoguesandInitiatives
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/5734514c-3981-4f62-b7b4-417c6e2c8fee
+Display  Heifer International Caucasus Regional office in Armenia
+External ID: HeiferInternationalCaucasusRegionalofficeinArmenia
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/9b7fffb8-b0d3-4781-ab04-6815183bf883
+Display  "Accept" LTD
+External ID: "Accept"LTD
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/5ea26f36-a7e8-4830-a965-0dfcfc623ae2
+Display  ASPO-IT
+External ID: ASPO-IT
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/2535baf0-f842-4e3f-a703-b2b5318c5aab
+Display  United Methodist Committee on Relief (UMCOR) Armenia Office
+External ID: UnitedMethodistCommitteeonRelief(UMCOR)ArmeniaOffice
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/e452c88f-6e42-437a-a3b1-9a170ea87c05
+Display  Hovnanian International LTD
+External ID: HovnanianInternationalLTD
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/47de735b-4156-49f2-b02e-090de41d6782
+Display  Armobil Security Service LLC
+External ID: ArmobilSecurityServiceLLC
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/8177aedd-a878-4250-938d-b1207298dabc
+Display  GAS AMA
+External ID: GASAMA
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/199f6222-f3c0-4f70-948c-519dc66b60ce
+Display  Club-Restaurante
+External ID: Club-Restaurante
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/53aae872-ffad-43fa-95ea-fb716c95a88f
+Display  Travel Agency
+External ID: TravelAgency
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/7b35f2df-3547-4afc-b5e8-fb7d91ef0282
+Display  Club-restaurante
+External ID: Club-restaurante
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/5e8e7a88-3bcb-4216-911f-f32de8b933cb
+Display  A1+ TV Company of Meltex Co. Ltd
+External ID: A1+TVCompanyofMeltexCo.Ltd
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/5c083734-7f3d-4805-8567-ba5441ff87a8
+Display  Yerevan Physics Institute
+External ID: YerevanPhysicsInstitute
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/82444012-9de5-470a-9290-4e7a47eea1f4
+Display  "GTMC" CJSC
+External ID: "GTMC"CJSC
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/a664de76-e30d-4c42-b47e-bf9a8306fccc
+Display  International Organization
+External ID: InternationalOrganization
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/c2384ceb-04d7-4a6b-8932-918d56f8b3b5
+Display  Max Group/Unitrade Ltd
+External ID: MaxGroup/UnitradeLtd
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/3a666eb9-bc60-44de-ab0b-5c723914bb89
+Display  Rasco-Armenia cjsc
+External ID: Rasco-Armeniacjsc
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/b8ce60a2-ffba-4b2c-9667-27b4947d731c
+Display  Armenian General Benevolent Union (AGBU) Armenian Representation
+External ID: ArmenianGeneralBenevolentUnion(AGBU)ArmenianRepresentation
+
+
+ projects/job-search-354919/tenants/37f1f1a7-2e00-0000-0000-0074e58f8fec/companies/163522d0-8f96-4181-8ee8-6a4d7eb21516
+Display  Financial Company FOREX CLUB, Interntional Academy of  Exchange
+External ID: FinancialCompanyFOREXCLUB,InterntionalAcademyofExchangeTrading
