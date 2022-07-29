@@ -1,7 +1,7 @@
 import pandas as pd
 import json
 
-f = open('./data/database.json')
+f = open('./Akinator/data/database.json')
 
 data = json.load(f)
 

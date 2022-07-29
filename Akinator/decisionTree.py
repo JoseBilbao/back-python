@@ -13,7 +13,7 @@ def maxLen(data):
 
 
 def predictionDisease(userInput):
-    data = pd.read_csv('./data/diseaseNew.csv', na_filter=False)
+    data = pd.read_csv('./Akinator/data/diseaseNew.csv', na_filter=False)
     symptoms = data.drop('Name', axis='columns')
     target = data['Name']
 
@@ -39,12 +39,12 @@ def predictionDisease(userInput):
 
 
 def write_data_csv_tf():
-    with open('./data/SymptomsNew.json') as f:
+    with open('./Akinator/data/SymptomsNew.json') as f:
         symptoms = json.load(f)
 
     database =[]
 
-    with open('./data/diseaseTest.json') as f:
+    with open('./Akinator/data/diseaseTest.json') as f:
         diseases = json.load(f)
 
     for disease in diseases:
@@ -64,7 +64,7 @@ def write_data_csv_tf():
         writer.writerows(database)
 
 def write_data_csv():
-    with open('./data/data.json') as f:
+    with open('./Akinator/data.json') as f:
         diseases = json.load(f)
 
     maxLength  = maxLen(diseases)

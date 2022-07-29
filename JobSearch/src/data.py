@@ -10,7 +10,7 @@ tenant_id = os.environ.get("TENANT_ID")
 os.environ['GOOGLE_APPLICATION_CREDENTIALS']  = './application_default_credentials.json'
 
 def jobs():
-    jobPosts = pd.read_csv('./data/jobs.csv')
+    jobPosts = pd.read_csv('./JobSearch/data/jobs.csv')
     jobPosts.fillna('',  inplace=True)
 
     '''
@@ -57,7 +57,7 @@ def jobs():
 
 def companyId():
     companies = []
-    text_file = open("./data/data.txt", "r")
+    text_file = open("./JobSearch/data/data.txt", "r")
 
     data = text_file.readlines()
 
