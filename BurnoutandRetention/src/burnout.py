@@ -4,7 +4,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 
 # get data
-url = "./data/data.csv"
+url = "./BurnoutandRetention/data/data.csv"
 burnout = pd.read_csv(url)
 
 X = burnout.drop(['Id','Disengagement','Exhaustion','Burnout index','Recieved','Hierarchical Level'], axis='columns')

@@ -5,7 +5,7 @@ from sklearn.preprocessing import OneHotEncoder
 from sksurv.ensemble import RandomSurvivalForest
 from sksurv.linear_model import CoxPHSurvivalAnalysis
 
-url = "./data/job_retention.csv"
+url = "./BurnoutandRetention/data/job_retention.csv"
 job_retention = pd.read_csv(url)
 
 field_str = job_retention.loc[:, "field"].astype(object).values[:, np.newaxis]
