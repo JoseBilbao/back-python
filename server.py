@@ -4,6 +4,7 @@ from flask import request
 from Akinator.akinator import akinator
 from BurnoutandRetention.index import retention
 from JobSearch.index import job
+from Culture.index import culture
 
 app = Flask(__name__)
 CORS(app)
@@ -11,6 +12,7 @@ CORS(app)
 app.register_blueprint(akinator,url_prefix='/akinator')
 app.register_blueprint(retention,url_prefix='/retention')
 app.register_blueprint(job,url_prefix='/job')
+app.register_blueprint(culture,url_prefix='/culture')
 
 @app.route('/')
 def hello():
