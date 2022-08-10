@@ -9,16 +9,26 @@ import numpy as np
 data = pd.read_csv('./Culture/data/output.csv')
 employees = pd.read_csv('./Culture/data/hrdata_OSF.csv')
 
+density = {}
+for d in data.to_dict('records'):
+    if d['sender'] not in density:
+        density[d['sender']] = d['density']
+
 employees_dict = {}
 for emp in employees.to_dict('records'):
     name = emp['name']
+    if name in density:
+        d = density[name]
+    else:
+        d=0
     employees_dict[name] = {
         'acquired':emp['acquired'],
         'tenure':emp['tenure'],
         'title_status':emp['title_status'],
         'male':emp['male'],
         'rating':emp['rating'],
-        'branch_id':emp['branch_id']
+        'branch_id':d,
+        # 'axl': emp['acquired']*d
     }
 
 retention = data.drop(columns=['Unnamed: 0','month','diff','n_emails','innov'])
@@ -65,11 +75,12 @@ olsres_innov = olsmod_innov.fit()
 def prediction(data):
     data = pd.DataFrame(data)
     data["acquired"] = data.acquired.astype(int)
-    data["tenure"] = data.acquired.astype(float)
-    data["title_status"] = data.acquired.astype(int)
-    data["rating"] = data.acquired.astype(float)
-    data["male"] = data.acquired.astype(int)
-    data["branch_id"] = data.acquired.astype(int)
+    data["tenure"] = data.tenure.astype(float)
+    data["title_status"] = data.title_status.astype(int)
+    data["rating"] = data.rating.astype(float)
+    data["male"] = data.male.astype(int)
+    data["branch_id"] = data.branch_id.astype(float)
+
     ypred = olsres.predict(data)
     ypred_innov = olsres_innov.predict(data)
     return {'ret':ypred[0], 'innov':ypred_innov[0]}
