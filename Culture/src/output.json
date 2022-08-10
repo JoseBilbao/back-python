@@ -1,0 +1,1433 @@
+[
+    {
+        "month": 24,
+        "sender": "B0071",
+        "diff": 0.93,
+        "ret": 0.98,
+        "innov": 0.07,
+        "density": 0.04289118347895155,
+        "n_emails": 15
+    },
+    {
+        "month": 19,
+        "sender": "B0078",
+        "diff": 0.88,
+        "ret": 0.89,
+        "innov": 0.12,
+        "density": 0.027475672581568404,
+        "n_emails": 21
+    },
+    {
+        "month": 24,
+        "sender": "B0082",
+        "diff": 0.88,
+        "ret": 0.86,
+        "innov": 0.12,
+        "density": 0.03474903474903475,
+        "n_emails": 17
+    },
+    {
+        "month": 24,
+        "sender": "B0115",
+        "diff": 0.9,
+        "ret": 0.93,
+        "innov": 0.1,
+        "density": 0.034722222222222224,
+        "n_emails": 15
+    },
+    {
+        "month": 24,
+        "sender": "B0153",
+        "diff": 0.87,
+        "ret": 0.92,
+        "innov": 0.13,
+        "density": 0.027344541219363985,
+        "n_emails": 22
+    },
+    {
+        "month": 24,
+        "sender": "B0182",
+        "diff": 0.88,
+        "ret": 0.96,
+        "innov": 0.12,
+        "density": 0.027344541219363985,
+        "n_emails": 17
+    },
+    {
+        "month": 24,
+        "sender": "B0193",
+        "diff": 0.9,
+        "ret": 0.93,
+        "innov": 0.1,
+        "density": 0.027475672581568404,
+        "n_emails": 24
+    },
+    {
+        "month": 20,
+        "sender": "B0226",
+        "diff": 0.88,
+        "ret": 0.96,
+        "innov": 0.12,
+        "density": 0.034722222222222224,
+        "n_emails": 25
+    },
+    {
+        "month": 18,
+        "sender": "B0365",
+        "diff": 0.9,
+        "ret": 0.95,
+        "innov": 0.1,
+        "density": 0.01985932974762102,
+        "n_emails": 20
+    },
+    {
+        "month": 24,
+        "sender": "B0446",
+        "diff": 0.86,
+        "ret": 0.85,
+        "innov": 0.14,
+        "density": 0.0410958904109589,
+        "n_emails": 19
+    },
+    {
+        "month": 8,
+        "sender": "B0703",
+        "diff": 0.85,
+        "ret": 0.86,
+        "innov": 0.15,
+        "density": 0.011583011583011582,
+        "n_emails": 32
+    },
+    {
+        "month": 24,
+        "sender": "B0847",
+        "diff": 0.86,
+        "ret": 0.89,
+        "innov": 0.14,
+        "density": 0.04878048780487805,
+        "n_emails": 28
+    },
+    {
+        "month": 24,
+        "sender": "B0881",
+        "diff": 0.88,
+        "ret": 0.9,
+        "innov": 0.12,
+        "density": 0.011235955056179775,
+        "n_emails": 35
+    },
+    {
+        "month": 10,
+        "sender": "B0929",
+        "diff": 0.9,
+        "ret": 0.88,
+        "innov": 0.1,
+        "density": 0.041666666666666664,
+        "n_emails": 29
+    },
+    {
+        "month": 24,
+        "sender": "B1028",
+        "diff": 0.89,
+        "ret": 0.9,
+        "innov": 0.11,
+        "density": 0.034722222222222224,
+        "n_emails": 32
+    },
+    {
+        "month": 13,
+        "sender": "B1035",
+        "diff": 0.89,
+        "ret": 0.92,
+        "innov": 0.11,
+        "density": 0.027475672581568404,
+        "n_emails": 28
+    },
+    {
+        "month": 4,
+        "sender": "B1147",
+        "diff": 0.91,
+        "ret": 0.9,
+        "innov": 0.09,
+        "density": 0.04289118347895155,
+        "n_emails": 27
+    },
+    {
+        "month": 24,
+        "sender": "B1221",
+        "diff": 0.88,
+        "ret": 0.89,
+        "innov": 0.12,
+        "density": 0.0653950953678474,
+        "n_emails": 18
+    },
+    {
+        "month": 24,
+        "sender": "B1231",
+        "diff": 0.91,
+        "ret": 0.97,
+        "innov": 0.09,
+        "density": 0.0653950953678474,
+        "n_emails": 25
+    },
+    {
+        "month": 24,
+        "sender": "B1338",
+        "diff": 0.87,
+        "ret": 0.92,
+        "innov": 0.13,
+        "density": 0.027344541219363985,
+        "n_emails": 20
+    },
+    {
+        "month": 24,
+        "sender": "B1575",
+        "diff": 0.91,
+        "ret": 0.84,
+        "innov": 0.09,
+        "density": 0.04289118347895155,
+        "n_emails": 13
+    },
+    {
+        "month": 5,
+        "sender": "B1584",
+        "diff": 0.87,
+        "ret": 0.95,
+        "innov": 0.13,
+        "density": 0.04878048780487805,
+        "n_emails": 21
+    },
+    {
+        "month": 24,
+        "sender": "B1751",
+        "diff": 0.85,
+        "ret": 0.95,
+        "innov": 0.15,
+        "density": 0.04316546762589928,
+        "n_emails": 12
+    },
+    {
+        "month": 24,
+        "sender": "B1785",
+        "diff": 0.89,
+        "ret": 0.94,
+        "innov": 0.11,
+        "density": 0.027344541219363985,
+        "n_emails": 23
+    },
+    {
+        "month": 10,
+        "sender": "B1817",
+        "diff": 0.91,
+        "ret": 0.95,
+        "innov": 0.09,
+        "density": 0.01985932974762102,
+        "n_emails": 24
+    },
+    {
+        "month": 6,
+        "sender": "B1845",
+        "diff": 0.9,
+        "ret": 0.94,
+        "innov": 0.1,
+        "density": 0.04289118347895155,
+        "n_emails": 20
+    },
+    {
+        "month": 24,
+        "sender": "B1874",
+        "diff": 0.91,
+        "ret": 0.97,
+        "innov": 0.09,
+        "density": 0.027344541219363985,
+        "n_emails": 34
+    },
+    {
+        "month": 24,
+        "sender": "B1875",
+        "diff": 0.9,
+        "ret": 0.86,
+        "innov": 0.1,
+        "density": 0.027344541219363985,
+        "n_emails": 29
+    },
+    {
+        "month": 24,
+        "sender": "B1878",
+        "diff": 0.9,
+        "ret": 0.93,
+        "innov": 0.1,
+        "density": 0.04289118347895155,
+        "n_emails": 33
+    },
+    {
+        "month": 4,
+        "sender": "B1971",
+        "diff": 0.9,
+        "ret": 0.94,
+        "innov": 0.1,
+        "density": 0.027475672581568404,
+        "n_emails": 33
+    },
+    {
+        "month": 18,
+        "sender": "B2006",
+        "diff": 0.92,
+        "ret": 0.92,
+        "innov": 0.08,
+        "density": 0.040268456375838924,
+        "n_emails": 31
+    },
+    {
+        "month": 14,
+        "sender": "B2193",
+        "diff": 0.89,
+        "ret": 0.88,
+        "innov": 0.11,
+        "density": 0.027522935779816515,
+        "n_emails": 30
+    },
+    {
+        "month": 24,
+        "sender": "B2235",
+        "diff": 0.86,
+        "ret": 0.88,
+        "innov": 0.14,
+        "density": 0.034722222222222224,
+        "n_emails": 33
+    },
+    {
+        "month": 24,
+        "sender": "B2280",
+        "diff": 0.85,
+        "ret": 0.93,
+        "innov": 0.15,
+        "density": 0.03428571428571429,
+        "n_emails": 37
+    },
+    {
+        "month": 24,
+        "sender": "B2320",
+        "diff": 0.84,
+        "ret": 0.96,
+        "innov": 0.16,
+        "density": 0.027344541219363985,
+        "n_emails": 24
+    },
+    {
+        "month": 24,
+        "sender": "B2353",
+        "diff": 0.9,
+        "ret": 0.95,
+        "innov": 0.1,
+        "density": 0.04316546762589928,
+        "n_emails": 37
+    },
+    {
+        "month": 24,
+        "sender": "B2373",
+        "diff": 0.92,
+        "ret": 0.89,
+        "innov": 0.08,
+        "density": 0.027344541219363985,
+        "n_emails": 28
+    },
+    {
+        "month": 22,
+        "sender": "B2385",
+        "diff": 0.87,
+        "ret": 0.92,
+        "innov": 0.13,
+        "density": 0.01985932974762102,
+        "n_emails": 41
+    },
+    {
+        "month": 5,
+        "sender": "B2624",
+        "diff": 0.88,
+        "ret": 0.95,
+        "innov": 0.12,
+        "density": 0.027344541219363985,
+        "n_emails": 29
+    },
+    {
+        "month": 15,
+        "sender": "B2661",
+        "diff": 0.9,
+        "ret": 0.92,
+        "innov": 0.1,
+        "density": 0.027344541219363985,
+        "n_emails": 33
+    },
+    {
+        "month": 24,
+        "sender": "B2667",
+        "diff": 0.85,
+        "ret": 0.88,
+        "innov": 0.15,
+        "density": 0.027344541219363985,
+        "n_emails": 35
+    },
+    {
+        "month": 24,
+        "sender": "B2805",
+        "diff": 0.84,
+        "ret": 0.99,
+        "innov": 0.16,
+        "density": 0.027344541219363985,
+        "n_emails": 35
+    },
+    {
+        "month": 24,
+        "sender": "B2819",
+        "diff": 0.84,
+        "ret": 0.89,
+        "innov": 0.16,
+        "density": 0.029484029484029485,
+        "n_emails": 35
+    },
+    {
+        "month": 9,
+        "sender": "B2859",
+        "diff": 0.91,
+        "ret": 0.84,
+        "innov": 0.09,
+        "density": 0.01985932974762102,
+        "n_emails": 30
+    },
+    {
+        "month": 24,
+        "sender": "B2966",
+        "diff": 0.9,
+        "ret": 0.92,
+        "innov": 0.1,
+        "density": 0.027344541219363985,
+        "n_emails": 44
+    },
+    {
+        "month": 24,
+        "sender": "B3005",
+        "diff": 0.88,
+        "ret": 0.94,
+        "innov": 0.12,
+        "density": 0.011583011583011582,
+        "n_emails": 36
+    },
+    {
+        "month": 24,
+        "sender": "B3063",
+        "diff": 0.86,
+        "ret": 0.83,
+        "innov": 0.369,
+        "density": 0.027344541219363985,
+        "n_emails": 39
+    },
+    {
+        "month": 23,
+        "sender": "B3151",
+        "diff": 0.84,
+        "ret": 0.82,
+        "innov": 0.415,
+        "density": 0.04316546762589928,
+        "n_emails": 34
+    },
+    {
+        "month": 24,
+        "sender": "B3164",
+        "diff": 0.85,
+        "ret": 0.6,
+        "innov": 0.41400000000000003,
+        "density": 0.027475672581568404,
+        "n_emails": 45
+    },
+    {
+        "month": 24,
+        "sender": "B3256",
+        "diff": 0.89,
+        "ret": 0.53,
+        "innov": 0.40319999999999995,
+        "density": 0.041379310344827586,
+        "n_emails": 45
+    },
+    {
+        "month": 24,
+        "sender": "B3646",
+        "diff": 0.86,
+        "ret": 0.58,
+        "innov": 0.405,
+        "density": 0.040268456375838924,
+        "n_emails": 27
+    },
+    {
+        "month": 24,
+        "sender": "B3830",
+        "diff": 0.92,
+        "ret": 0.5,
+        "innov": 0.45,
+        "density": 0.027344541219363985,
+        "n_emails": 27
+    },
+    {
+        "month": 24,
+        "sender": "B3953",
+        "diff": 0.87,
+        "ret": 0.56,
+        "innov": 0.4704,
+        "density": 0.027344541219363985,
+        "n_emails": 21
+    },
+    {
+        "month": 24,
+        "sender": "B3961",
+        "diff": 0.9,
+        "ret": 0.5,
+        "innov": 0.46,
+        "density": 0.04316546762589928,
+        "n_emails": 26
+    },
+    {
+        "month": 24,
+        "sender": "B4025",
+        "diff": 0.92,
+        "ret": 0.49,
+        "innov": 0.39690000000000003,
+        "density": 0.04289118347895155,
+        "n_emails": 29
+    },
+    {
+        "month": 24,
+        "sender": "B4097",
+        "diff": 0.91,
+        "ret": 0.71,
+        "innov": 0.4,
+        "density": 0.04289118347895155,
+        "n_emails": 29
+    },
+    {
+        "month": 24,
+        "sender": "B4104",
+        "diff": 0.88,
+        "ret": 0.47,
+        "innov": 0.42769999999999997,
+        "density": 0.0,
+        "n_emails": 28
+    },
+    {
+        "month": 24,
+        "sender": "B4144",
+        "diff": 0.89,
+        "ret": 0.64,
+        "innov": 0.39949999999999997,
+        "density": 0.027344541219363985,
+        "n_emails": 28
+    },
+    {
+        "month": 24,
+        "sender": "B4213",
+        "diff": 0.86,
+        "ret": 0.72,
+        "innov": 0.415,
+        "density": 0.0653950953678474,
+        "n_emails": 30
+    },
+    {
+        "month": 14,
+        "sender": "B4270",
+        "diff": 0.88,
+        "ret": 0.66,
+        "innov": 0.12,
+        "density": 0.0410958904109589,
+        "n_emails": 26
+    },
+    {
+        "month": 24,
+        "sender": "B4439",
+        "diff": 0.92,
+        "ret": 0.79,
+        "innov": 0.08,
+        "density": 0.027344541219363985,
+        "n_emails": 21
+    },
+    {
+        "month": 24,
+        "sender": "B4440",
+        "diff": 0.89,
+        "ret": 0.72,
+        "innov": 0.11,
+        "density": 0.011583011583011582,
+        "n_emails": 30
+    },
+    {
+        "month": 24,
+        "sender": "B4462",
+        "diff": 0.88,
+        "ret": 0.65,
+        "innov": 0.12,
+        "density": 0.0,
+        "n_emails": 22
+    },
+    {
+        "month": 5,
+        "sender": "B4492",
+        "diff": 0.85,
+        "ret": 0.79,
+        "innov": 0.15,
+        "density": 0.04289118347895155,
+        "n_emails": 30
+    },
+    {
+        "month": 24,
+        "sender": "B4505",
+        "diff": 0.88,
+        "ret": 0.76,
+        "innov": 0.12,
+        "density": 0.027344541219363985,
+        "n_emails": 28
+    },
+    {
+        "month": 24,
+        "sender": "B4540",
+        "diff": 0.86,
+        "ret": 0.88,
+        "innov": 0.14,
+        "density": 0.04437869822485207,
+        "n_emails": 29
+    },
+    {
+        "month": 24,
+        "sender": "B4723",
+        "diff": 0.88,
+        "ret": 0.74,
+        "innov": 0.12,
+        "density": 0.027344541219363985,
+        "n_emails": 48
+    },
+    {
+        "month": 24,
+        "sender": "B4866",
+        "diff": 0.87,
+        "ret": 0.68,
+        "innov": 0.13,
+        "density": 0.027475672581568404,
+        "n_emails": 40
+    },
+    {
+        "month": 24,
+        "sender": "B4980",
+        "diff": 0.87,
+        "ret": 0.73,
+        "innov": 0.13,
+        "density": 0.04316546762589928,
+        "n_emails": 33
+    },
+    {
+        "month": 24,
+        "sender": "B4998",
+        "diff": 0.85,
+        "ret": 0.77,
+        "innov": 0.15,
+        "density": 0.027344541219363985,
+        "n_emails": 43
+    },
+    {
+        "month": 24,
+        "sender": "B5036",
+        "diff": 0.89,
+        "ret": 0.72,
+        "innov": 0.11,
+        "density": 0.0,
+        "n_emails": 38
+    },
+    {
+        "month": 24,
+        "sender": "B5141",
+        "diff": 0.88,
+        "ret": 0.68,
+        "innov": 0.12,
+        "density": 0.021897810218978103,
+        "n_emails": 29
+    },
+    {
+        "month": 24,
+        "sender": "B5145",
+        "diff": 0.91,
+        "ret": 0.71,
+        "innov": 0.09,
+        "density": 0.029484029484029485,
+        "n_emails": 40
+    },
+    {
+        "month": 24,
+        "sender": "B5192",
+        "diff": 0.92,
+        "ret": 0.75,
+        "innov": 0.08,
+        "density": 0.027344541219363985,
+        "n_emails": 24
+    },
+    {
+        "month": 24,
+        "sender": "B5197",
+        "diff": 0.86,
+        "ret": 0.8,
+        "innov": 0.14,
+        "density": 0.021897810218978103,
+        "n_emails": 37
+    },
+    {
+        "month": 24,
+        "sender": "B5261",
+        "diff": 0.9,
+        "ret": 0.74,
+        "innov": 0.1,
+        "density": 0.0410958904109589,
+        "n_emails": 37
+    },
+    {
+        "month": 18,
+        "sender": "B5306",
+        "diff": 0.91,
+        "ret": 0.72,
+        "innov": 0.09,
+        "density": 0.027344541219363985,
+        "n_emails": 28
+    },
+    {
+        "month": 4,
+        "sender": "B5345",
+        "diff": 0.85,
+        "ret": 0.66,
+        "innov": 0.15,
+        "density": 0.04289118347895155,
+        "n_emails": 28
+    },
+    {
+        "month": 24,
+        "sender": "B5445",
+        "diff": 0.92,
+        "ret": 0.68,
+        "innov": 0.08,
+        "density": 0.0,
+        "n_emails": 25
+    },
+    {
+        "month": 14,
+        "sender": "B5447",
+        "diff": 0.85,
+        "ret": 0.71,
+        "innov": 0.15,
+        "density": 0.027475672581568404,
+        "n_emails": 27
+    },
+    {
+        "month": 2,
+        "sender": "B5482",
+        "diff": 0.88,
+        "ret": 0.71,
+        "innov": 0.12,
+        "density": 0.027344541219363985,
+        "n_emails": 31
+    },
+    {
+        "month": 10,
+        "sender": "B5578",
+        "diff": 0.88,
+        "ret": 0.79,
+        "innov": 0.12,
+        "density": 0.04838709677419355,
+        "n_emails": 32
+    },
+    {
+        "month": 24,
+        "sender": "B5651",
+        "diff": 0.87,
+        "ret": 0.76,
+        "innov": 0.13,
+        "density": 0.027475672581568404,
+        "n_emails": 31
+    },
+    {
+        "month": 24,
+        "sender": "B5754",
+        "diff": 0.92,
+        "ret": 0.82,
+        "innov": 0.08,
+        "density": 0.034722222222222224,
+        "n_emails": 30
+    },
+    {
+        "month": 24,
+        "sender": "B5775",
+        "diff": 0.89,
+        "ret": 0.73,
+        "innov": 0.11,
+        "density": 0.0410958904109589,
+        "n_emails": 26
+    },
+    {
+        "month": 24,
+        "sender": "B5810",
+        "diff": 0.88,
+        "ret": 0.72,
+        "innov": 0.12,
+        "density": 0.027475672581568404,
+        "n_emails": 31
+    },
+    {
+        "month": 11,
+        "sender": "B5861",
+        "diff": 0.92,
+        "ret": 0.78,
+        "innov": 0.08,
+        "density": 0.0,
+        "n_emails": 35
+    },
+    {
+        "month": 24,
+        "sender": "B5865",
+        "diff": 0.88,
+        "ret": 0.75,
+        "innov": 0.12,
+        "density": 0.01985932974762102,
+        "n_emails": 29
+    },
+    {
+        "month": 24,
+        "sender": "B5910",
+        "diff": 0.91,
+        "ret": 0.71,
+        "innov": 0.09,
+        "density": 0.027344541219363985,
+        "n_emails": 32
+    },
+    {
+        "month": 24,
+        "sender": "B5986",
+        "diff": 0.89,
+        "ret": 0.78,
+        "innov": 0.11,
+        "density": 0.012605042016806723,
+        "n_emails": 31
+    },
+    {
+        "month": 24,
+        "sender": "B6063",
+        "diff": 0.89,
+        "ret": 0.77,
+        "innov": 0.11,
+        "density": 0.040268456375838924,
+        "n_emails": 30
+    },
+    {
+        "month": 24,
+        "sender": "B6064",
+        "diff": 0.86,
+        "ret": 0.77,
+        "innov": 0.14,
+        "density": 0.03428571428571429,
+        "n_emails": 36
+    },
+    {
+        "month": 24,
+        "sender": "B6176",
+        "diff": 0.9,
+        "ret": 0.74,
+        "innov": 0.1,
+        "density": 0.02591792656587473,
+        "n_emails": 22
+    },
+    {
+        "month": 24,
+        "sender": "B6234",
+        "diff": 0.91,
+        "ret": 0.7,
+        "innov": 0.09,
+        "density": 0.027344541219363985,
+        "n_emails": 25
+    },
+    {
+        "month": 24,
+        "sender": "B6276",
+        "diff": 0.88,
+        "ret": 0.67,
+        "innov": 0.12,
+        "density": 0.027344541219363985,
+        "n_emails": 34
+    },
+    {
+        "month": 20,
+        "sender": "B6290",
+        "diff": 0.9,
+        "ret": 0.74,
+        "innov": 0.1,
+        "density": 0.011235955056179775,
+        "n_emails": 35
+    },
+    {
+        "month": 24,
+        "sender": "B6292",
+        "diff": 0.9,
+        "ret": 0.72,
+        "innov": 0.1,
+        "density": 0.027344541219363985,
+        "n_emails": 25
+    },
+    {
+        "month": 16,
+        "sender": "B6340",
+        "diff": 0.89,
+        "ret": 0.69,
+        "innov": 0.11,
+        "density": 0.029484029484029485,
+        "n_emails": 30
+    },
+    {
+        "month": 7,
+        "sender": "B6465",
+        "diff": 0.9,
+        "ret": 0.72,
+        "innov": 0.1,
+        "density": 0.025210084033613446,
+        "n_emails": 31
+    },
+    {
+        "month": 4,
+        "sender": "B6483",
+        "diff": 0.87,
+        "ret": 0.74,
+        "innov": 0.13,
+        "density": 0.027344541219363985,
+        "n_emails": 28
+    },
+    {
+        "month": 24,
+        "sender": "B6564",
+        "diff": 0.86,
+        "ret": 0.77,
+        "innov": 0.14,
+        "density": 0.027344541219363985,
+        "n_emails": 29
+    },
+    {
+        "month": 24,
+        "sender": "B6574",
+        "diff": 0.89,
+        "ret": 0.83,
+        "innov": 0.11,
+        "density": 0.027475672581568404,
+        "n_emails": 35
+    },
+    {
+        "month": 24,
+        "sender": "B6628",
+        "diff": 0.9,
+        "ret": 0.77,
+        "innov": 0.1,
+        "density": 0.01985932974762102,
+        "n_emails": 23
+    },
+    {
+        "month": 3,
+        "sender": "B6655",
+        "diff": 0.89,
+        "ret": 0.83,
+        "innov": 0.11,
+        "density": 0.027344541219363985,
+        "n_emails": 28
+    },
+    {
+        "month": 8,
+        "sender": "B6735",
+        "diff": 0.91,
+        "ret": 0.68,
+        "innov": 0.09,
+        "density": 0.041666666666666664,
+        "n_emails": 33
+    },
+    {
+        "month": 24,
+        "sender": "B6895",
+        "diff": 0.9,
+        "ret": 0.69,
+        "innov": 0.1,
+        "density": 0.0410958904109589,
+        "n_emails": 23
+    },
+    {
+        "month": 24,
+        "sender": "B6908",
+        "diff": 0.89,
+        "ret": 0.69,
+        "innov": 0.11,
+        "density": 0.021897810218978103,
+        "n_emails": 35
+    },
+    {
+        "month": 24,
+        "sender": "B6917",
+        "diff": 0.89,
+        "ret": 0.8,
+        "innov": 0.11,
+        "density": 0.011583011583011582,
+        "n_emails": 22
+    },
+    {
+        "month": 2,
+        "sender": "B6919",
+        "diff": 0.86,
+        "ret": 0.77,
+        "innov": 0.14,
+        "density": 0.027344541219363985,
+        "n_emails": 25
+    },
+    {
+        "month": 24,
+        "sender": "B7050",
+        "diff": 0.91,
+        "ret": 0.78,
+        "innov": 0.09,
+        "density": 0.03474903474903475,
+        "n_emails": 26
+    },
+    {
+        "month": 24,
+        "sender": "B7065",
+        "diff": 0.89,
+        "ret": 0.81,
+        "innov": 0.11,
+        "density": 0.011583011583011582,
+        "n_emails": 28
+    },
+    {
+        "month": 23,
+        "sender": "B7157",
+        "diff": 0.9,
+        "ret": 0.72,
+        "innov": 0.1,
+        "density": 0.03474903474903475,
+        "n_emails": 31
+    },
+    {
+        "month": 24,
+        "sender": "B7366",
+        "diff": 0.87,
+        "ret": 0.74,
+        "innov": 0.13,
+        "density": 0.011583011583011582,
+        "n_emails": 38
+    },
+    {
+        "month": 22,
+        "sender": "B7369",
+        "diff": 0.85,
+        "ret": 0.76,
+        "innov": 0.15,
+        "density": 0.027344541219363985,
+        "n_emails": 32
+    },
+    {
+        "month": 24,
+        "sender": "B7514",
+        "diff": 0.88,
+        "ret": 0.8,
+        "innov": 0.12,
+        "density": 0.01985932974762102,
+        "n_emails": 17
+    },
+    {
+        "month": 24,
+        "sender": "B7654",
+        "diff": 0.91,
+        "ret": 0.72,
+        "innov": 0.09,
+        "density": 0.041379310344827586,
+        "n_emails": 26
+    },
+    {
+        "month": 6,
+        "sender": "B7706",
+        "diff": 0.9,
+        "ret": 0.77,
+        "innov": 0.1,
+        "density": 0.027344541219363985,
+        "n_emails": 14
+    },
+    {
+        "month": 24,
+        "sender": "B7725",
+        "diff": 0.91,
+        "ret": 0.76,
+        "innov": 0.09,
+        "density": 0.027344541219363985,
+        "n_emails": 20
+    },
+    {
+        "month": 15,
+        "sender": "B7829",
+        "diff": 0.88,
+        "ret": 0.79,
+        "innov": 0.12,
+        "density": 0.027522935779816515,
+        "n_emails": 27
+    },
+    {
+        "month": 24,
+        "sender": "B7852",
+        "diff": 0.92,
+        "ret": 0.74,
+        "innov": 0.08,
+        "density": 0.01985932974762102,
+        "n_emails": 16
+    },
+    {
+        "month": 24,
+        "sender": "B8157",
+        "diff": 0.88,
+        "ret": 0.78,
+        "innov": 0.12,
+        "density": 0.027344541219363985,
+        "n_emails": 31
+    },
+    {
+        "month": 24,
+        "sender": "B8167",
+        "diff": 0.86,
+        "ret": 0.74,
+        "innov": 0.14,
+        "density": 0.01985932974762102,
+        "n_emails": 31
+    },
+    {
+        "month": 24,
+        "sender": "B8205",
+        "diff": 0.84,
+        "ret": 0.75,
+        "innov": 0.16,
+        "density": 0.04437869822485207,
+        "n_emails": 26
+    },
+    {
+        "month": 24,
+        "sender": "B8282",
+        "diff": 0.89,
+        "ret": 0.74,
+        "innov": 0.11,
+        "density": 0.027344541219363985,
+        "n_emails": 24
+    },
+    {
+        "month": 24,
+        "sender": "B8299",
+        "diff": 0.81,
+        "ret": 0.67,
+        "innov": 0.19,
+        "density": 0.04289118347895155,
+        "n_emails": 32
+    },
+    {
+        "month": 24,
+        "sender": "B8341",
+        "diff": 0.88,
+        "ret": 0.82,
+        "innov": 0.12,
+        "density": 0.02591792656587473,
+        "n_emails": 18
+    },
+    {
+        "month": 24,
+        "sender": "B8460",
+        "diff": 0.89,
+        "ret": 0.71,
+        "innov": 0.11,
+        "density": 0.04289118347895155,
+        "n_emails": 22
+    },
+    {
+        "month": 18,
+        "sender": "B8477",
+        "diff": 0.87,
+        "ret": 0.73,
+        "innov": 0.13,
+        "density": 0.04289118347895155,
+        "n_emails": 28
+    },
+    {
+        "month": 24,
+        "sender": "B8559",
+        "diff": 0.88,
+        "ret": 0.76,
+        "innov": 0.12,
+        "density": 0.027344541219363985,
+        "n_emails": 39
+    },
+    {
+        "month": 24,
+        "sender": "B8565",
+        "diff": 0.85,
+        "ret": 0.74,
+        "innov": 0.15,
+        "density": 0.04289118347895155,
+        "n_emails": 23
+    },
+    {
+        "month": 24,
+        "sender": "B8704",
+        "diff": 0.9,
+        "ret": 0.72,
+        "innov": 0.1,
+        "density": 0.025210084033613446,
+        "n_emails": 35
+    },
+    {
+        "month": 16,
+        "sender": "B8748",
+        "diff": 0.88,
+        "ret": 0.77,
+        "innov": 0.12,
+        "density": 0.027344541219363985,
+        "n_emails": 27
+    },
+    {
+        "month": 24,
+        "sender": "B8890",
+        "diff": 0.88,
+        "ret": 0.73,
+        "innov": 0.12,
+        "density": 0.027475672581568404,
+        "n_emails": 21
+    },
+    {
+        "month": 24,
+        "sender": "B8896",
+        "diff": 0.84,
+        "ret": 0.7,
+        "innov": 0.16,
+        "density": 0.027344541219363985,
+        "n_emails": 24
+    },
+    {
+        "month": 24,
+        "sender": "B8943",
+        "diff": 0.88,
+        "ret": 0.71,
+        "innov": 0.12,
+        "density": 0.02313624678663239,
+        "n_emails": 27
+    },
+    {
+        "month": 24,
+        "sender": "B8954",
+        "diff": 0.86,
+        "ret": 0.73,
+        "innov": 0.14,
+        "density": 0.027475672581568404,
+        "n_emails": 24
+    },
+    {
+        "month": 2,
+        "sender": "B9024",
+        "diff": 0.86,
+        "ret": 0.73,
+        "innov": 0.14,
+        "density": 0.027344541219363985,
+        "n_emails": 26
+    },
+    {
+        "month": 24,
+        "sender": "B9111",
+        "diff": 0.87,
+        "ret": 0.71,
+        "innov": 0.13,
+        "density": 0.01985932974762102,
+        "n_emails": 28
+    },
+    {
+        "month": 24,
+        "sender": "B9122",
+        "diff": 0.87,
+        "ret": 0.73,
+        "innov": 0.13,
+        "density": 0.027475672581568404,
+        "n_emails": 25
+    },
+    {
+        "month": 24,
+        "sender": "B9137",
+        "diff": 0.89,
+        "ret": 0.76,
+        "innov": 0.11,
+        "density": 0.04289118347895155,
+        "n_emails": 19
+    },
+    {
+        "month": 2,
+        "sender": "B9184",
+        "diff": 0.89,
+        "ret": 0.79,
+        "innov": 0.11,
+        "density": 0.027344541219363985,
+        "n_emails": 30
+    },
+    {
+        "month": 24,
+        "sender": "B9607",
+        "diff": 0.88,
+        "ret": 0.71,
+        "innov": 0.12,
+        "density": 0.01985932974762102,
+        "n_emails": 32
+    },
+    {
+        "month": 3,
+        "sender": "B9710",
+        "diff": 0.86,
+        "ret": 0.73,
+        "innov": 0.14,
+        "density": 0.041379310344827586,
+        "n_emails": 21
+    },
+    {
+        "month": 24,
+        "sender": "B9801",
+        "diff": 0.78,
+        "ret": 0.69,
+        "innov": 0.22,
+        "density": 0.027475672581568404,
+        "n_emails": 20
+    },
+    {
+        "month": 24,
+        "sender": "B0216",
+        "diff": 0.88,
+        "ret": 0.75,
+        "innov": 0.12,
+        "density": 0.01985932974762102,
+        "n_emails": 22
+    },
+    {
+        "month": 24,
+        "sender": "B1806",
+        "diff": 0.88,
+        "ret": 0.74,
+        "innov": 0.12,
+        "density": 0.027344541219363985,
+        "n_emails": 26
+    },
+    {
+        "month": 24,
+        "sender": "B2765",
+        "diff": 0.87,
+        "ret": 0.78,
+        "innov": 0.13,
+        "density": 0.027344541219363985,
+        "n_emails": 21
+    },
+    {
+        "month": 24,
+        "sender": "B7787",
+        "diff": 0.89,
+        "ret": 0.78,
+        "innov": 0.11,
+        "density": 0.027344541219363985,
+        "n_emails": 25
+    },
+    {
+        "month": 24,
+        "sender": "B9344",
+        "diff": 0.89,
+        "ret": 0.71,
+        "innov": 0.11,
+        "density": 0.027344541219363985,
+        "n_emails": 24
+    },
+    {
+        "month": 6,
+        "sender": "B1729",
+        "diff": 0.6,
+        "ret": 0.77,
+        "innov": 0.4,
+        "density": 0.027344541219363985,
+        "n_emails": 37
+    },
+    {
+        "month": 24,
+        "sender": "B6953",
+        "diff": 0.68,
+        "ret": 0.79,
+        "innov": 0.32,
+        "density": 0.021897810218978103,
+        "n_emails": 34
+    },
+    {
+        "month": 10,
+        "sender": "B9938",
+        "diff": 0.71,
+        "ret": 0.74,
+        "innov": 0.29,
+        "density": 0.021897810218978103,
+        "n_emails": 38
+    },
+    {
+        "month": 24,
+        "sender": "B0041",
+        "diff": 0.7,
+        "ret": 0.77,
+        "innov": 0.3,
+        "density": 0.021897810218978103,
+        "n_emails": 34
+    },
+    {
+        "month": 24,
+        "sender": "B0761",
+        "diff": 0.72,
+        "ret": 0.71,
+        "innov": 0.28,
+        "density": 0.01985932974762102,
+        "n_emails": 39
+    },
+    {
+        "month": 24,
+        "sender": "B0975",
+        "diff": 0.73,
+        "ret": 0.71,
+        "innov": 0.27,
+        "density": 0.027344541219363985,
+        "n_emails": 37
+    },
+    {
+        "month": 20,
+        "sender": "B3061",
+        "diff": 0.75,
+        "ret": 0.77,
+        "innov": 0.25,
+        "density": 0.021897810218978103,
+        "n_emails": 34
+    },
+    {
+        "month": 19,
+        "sender": "B3662",
+        "diff": 0.7,
+        "ret": 0.7,
+        "innov": 0.3,
+        "density": 0.03428571428571429,
+        "n_emails": 34
+    },
+    {
+        "month": 24,
+        "sender": "B7232",
+        "diff": 0.67,
+        "ret": 0.78,
+        "innov": 0.33,
+        "density": 0.021897810218978103,
+        "n_emails": 29
+    },
+    {
+        "month": 10,
+        "sender": "B7970",
+        "diff": 0.67,
+        "ret": 0.71,
+        "innov": 0.33,
+        "density": 0.027522935779816515,
+        "n_emails": 31
+    }
+]
